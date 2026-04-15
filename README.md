@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Channa 👋
 
-<!--
-**Channa2002/Channa2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (React.js | Node.js | MongoDB)
 
-Here are some ideas to get you started:
+🚀 Projects:
+- Ai Code Reviewer
+- Finance tracker
+- Weather report
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack:
+- Frontend: React, HTML, CSS, JS
+- Backend: Node.js, Express
+- Database: MongoDB, Firebase
+
+📫 Contact:
+- LinkedIn: <https://www.linkedin.com/in/channa-basava-6481862bb/>
+- Email: <channabasava836@gmail.com>
+  
+
